@@ -2,7 +2,7 @@
 
 **An Engineering Solution for Proactive Student Intervention via a Hybrid AI Wrapper.**
 
-(image_2d7b00.png)<img width="1024" height="1024" alt="Gemini_Generated_Image_98wxly98wxly98wx" src="https://github.com/user-attachments/assets/a01658b7-fea6-4c8f-ac05-6a8f5814f0a3" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_98wxly98wxly98wx" src="https://github.com/user-attachments/assets/a01658b7-fea6-4c8f-ac05-6a8f5814f0a3" />
 
 
 ## ✨ Project Overview
